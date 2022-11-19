@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #97817D;
+}
+
+.bg-lightgrey {
+    background-color: lightgrey;
+}
+
+.nav-link {
+    color: red;
+}
+
+.nav-link:hover {
+    color: black;
+    font-weight: bold;
+}
+
+footer {
+    color: red;
+    background-color: #fefefe;
+}
+
+.colorBlack {
+    color: black;
+}
+
+footer div p {
+    color: black;
+}
+
+footer div .logo {
+    margin-top: 25%;
+    margin-bottom: 25%;
+    margin-left: 25%;
+}
+
+.arendonk {
+    color: red;
+}
