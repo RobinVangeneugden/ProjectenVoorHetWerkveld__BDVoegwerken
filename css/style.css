@@ -4,7 +4,15 @@
 }
 
 body {
-    background-color: #97817D;
+    background-color: rgb(55, 52, 52);
+}
+
+main {
+    color: white;
+}
+
+main h1 {
+    color: red;
 }
 
 .bg-lightgrey {
@@ -23,6 +31,8 @@ body {
 footer {
     color: red;
     background-color: #fefefe;
+    bottom: 0;
+    width: 100%;
 }
 
 .colorBlack {
@@ -31,12 +41,6 @@ footer {
 
 footer div p {
     color: black;
-}
-
-footer div .logo {
-    margin-top: 25%;
-    margin-bottom: 25%;
-    margin-left: 25%;
 }
 
 .arendonk {
