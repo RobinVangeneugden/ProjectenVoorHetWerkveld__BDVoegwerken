@@ -10,3 +10,5 @@ Third Commit: Dropdown menu gemaakt onder Projecten
 Fourth Commit: Footer aangepast: icons toegevoegd, socials toegevoegd, main/body aangepast
 <br>
 Fifth Commit: Gevelbekleding bewerkt
+<br>
+Sixth Commit: Verderwerken aan projectpagina's

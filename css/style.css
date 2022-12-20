@@ -19,7 +19,7 @@ main h1 {
     color: red;
 }
 
-.banner-gevelbekleding {
+.banner {
     width: 100%;
     opacity: 0.1;
     position: fixed;
@@ -30,7 +30,12 @@ main h1 {
 
 .img-gevelbekleding {
     width: 100%;
-    border-radius: 45%;
+    border-radius: 10%;
+}
+
+.img-gevelreiniging {
+    width: 100%;
+    border-radius: 10%;
 }
 
 .bg-lightgrey {
