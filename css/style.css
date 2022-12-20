@@ -5,18 +5,40 @@
 
 body {
     background-color: rgb(55, 52, 52);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 main {
     color: white;
+
 }
 
 main h1 {
     color: red;
 }
 
+.banner-gevelbekleding {
+    width: 100%;
+    opacity: 0.1;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
+.img-gevelbekleding {
+    width: 100%;
+    border-radius: 45%;
+}
+
 .bg-lightgrey {
     background-color: lightgrey;
+}
+
+.bg-darkbrown {
+    background-color: rgb(55, 52, 52);
 }
 
 .nav-link {
@@ -31,12 +53,15 @@ main h1 {
 footer {
     color: red;
     background-color: #fefefe;
-    bottom: 0;
-    width: 100%;
+    margin-top: auto;
 }
 
 .colorBlack {
     color: black;
+}
+
+.colorRed {
+    color: red;
 }
 
 footer div p {

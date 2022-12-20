@@ -8,3 +8,5 @@ Second Commit: Favicon aan de site toegevoegd
 Third Commit: Dropdown menu gemaakt onder Projecten
 <br>
 Fourth Commit: Footer aangepast: icons toegevoegd, socials toegevoegd, main/body aangepast
+<br>
+Fifth Commit: Gevelbekleding bewerkt
