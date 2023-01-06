@@ -8,6 +8,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    overflow-x: hidden;
 }
 
 main {
@@ -53,6 +54,14 @@ main h1 {
 .nav-link:hover {
     color: black;
     font-weight: bold;
+}
+
+.accordion-item {
+    color: white;
+}
+
+.accordion-button {
+    color: white;
 }
 
 footer {

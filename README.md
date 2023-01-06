@@ -12,3 +12,5 @@ Fourth Commit: Footer aangepast: icons toegevoegd, socials toegevoegd, main/body
 Fifth Commit: Gevelbekleding bewerkt
 <br>
 Sixth Commit: Verderwerken aan projectpagina's
+<br>
+Seventh Commit: Gevelrenovatie afgewerkt en nieuwe foto's toegevoegd
