@@ -14,3 +14,5 @@ Fifth Commit: Gevelbekleding bewerkt
 Sixth Commit: Verderwerken aan projectpagina's
 <br>
 Seventh Commit: Gevelrenovatie afgewerkt en nieuwe foto's toegevoegd
+<br>
+Eighth Commit: meta keywords toegevoegd 
