@@ -16,3 +16,5 @@ Sixth Commit: Verderwerken aan projectpagina's
 Seventh Commit: Gevelrenovatie afgewerkt en nieuwe foto's toegevoegd
 <br>
 Eighth Commit: meta keywords toegevoegd 
+<br>
+Ninth Commit: Foto's langs tekst in de midden centreren
