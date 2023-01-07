@@ -64,6 +64,11 @@ main h1 {
     color: white;
 }
 
+.project-foto {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 footer {
     color: red;
     background-color: #fefefe;
