@@ -18,3 +18,5 @@ Seventh Commit: Gevelrenovatie afgewerkt en nieuwe foto's toegevoegd
 Eighth Commit: meta keywords toegevoegd 
 <br>
 Ninth Commit: Foto's langs tekst in de midden centreren
+<br>
+Tenth Commit: Aanpassing van breakpoint van de cards. md naar xl. css regels toegevoegd aan @media voor cards in de midden te krijgen.

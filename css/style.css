@@ -90,3 +90,18 @@ footer div p {
 .arendonk {
     color: red;
 }
+
+@media screen and (max-width: 1250px) {
+
+    .card {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+    .googleMapIframe {
+        width: 50%;
+        height: 300px;
+    }
+}
